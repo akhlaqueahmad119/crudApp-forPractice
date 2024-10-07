@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": " AHMAD",
+      "email": "ahmadakhlaque325@gmail.com",
+      "number": "7987557295"
+    },
+    {
+      "id": "77d6",
+      "name": "Anas",
+      "email": "anas@gmail.com",
+      "number": "7987557295"
+    },
+    {
+      "id": "4615",
+      "name": "Arsh",
+      "email": "arsh@gmail.com",
+      "number": "7987557296"
+    },
+    {
+      "id": "d601",
+      "name": "Amani",
+      "email": "amani@gmail.com",
+      "number": "7987557295"
+    },
+    {
+      "id": "8fb8",
+      "name": "aasd",
+      "email": "muskan@gmail.com",
+      "number": "09022222222"
+    },
+    {
+      "id": "1678",
+      "name": "s",
+      "email": "s@gmail.com",
+      "number": "c3"
+    },
+    {
+      "id": "b90c",
+      "name": "x",
+      "email": "akki@gmail.com",
+      "number": "09033333333"
+    }
+  ]
+}
